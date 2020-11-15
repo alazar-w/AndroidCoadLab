@@ -1,0 +1,2 @@
+rootProject.name='AsyncTaskAndAsyncTaskLoader'
+include ':app'
